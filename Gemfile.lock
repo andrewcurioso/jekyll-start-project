@@ -1,0 +1,22 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    colored (1.2)
+    configure-s3-website (1.5.5)
+      deep_merge (= 1.0.0)
+    deep_merge (1.0.0)
+    dotenv (0.11.1)
+      dotenv-deployment (~> 0.0.2)
+    dotenv-deployment (0.0.2)
+    s3_website (2.1.10)
+      colored (= 1.2)
+      configure-s3-website (= 1.5.5)
+      dotenv (~> 0.11.1)
+      thor (= 0.18.1)
+    thor (0.18.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  s3_website
