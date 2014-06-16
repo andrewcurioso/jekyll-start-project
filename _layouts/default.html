@@ -6,12 +6,10 @@
         <title>{{ page.title }}</title>
         <meta name="viewport" content="width=device-width">
 
-        <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="/css/syntax.css">
-
-        <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/main.css">
-
+        {% css_asset_tag global %}
+        - /_assets/css/syntax.css
+        - /_assets/css/main.css
+        {% endcss_asset_tag %}
     </head>
     <body>
 
