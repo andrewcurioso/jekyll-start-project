@@ -11,23 +11,24 @@ You may or may not find it useful depending on what your development preferences
   * SASS
   * Coffee script
   * Minification
-* Amazon S3 optimized configuration
+* Amazon S3 deploy and pre-optimized configuration
 * Uses bundle for gems
 * Sitemap
+* Rake tasks for common chores
 
 ### Roadmap
 
-* Rake tasks for common chores
 * RSS feed
 * Styles for common blog elements
 * Favicon and mobile icons
 * More SEO
 
-## Getting Started
+## Quick Start
 
 1. Clone the repo
 2. `bundle`
-3. `rake init` (todo)
+3. `rake config`
 4. Follow the on-screen instructions
-5. `jekyll build`
-6. `rake deploy` (todo)
+5. `rake deploy`
+
+You can also type `rake` and it will display a list of available tasks.

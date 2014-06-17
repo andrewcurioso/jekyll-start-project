@@ -1,7 +1,9 @@
+---
 name: Your New Jekyll Site
 markdown: redcarpet
 highlighter: pygments
 exclude:
-   - Gemfile
-   - Gemfile.lock
-   - README
+- Gemfile
+- Gemfile.lock
+- README
+- Rakefile
