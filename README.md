@@ -13,6 +13,7 @@ You may or may not find it useful depending on what your development preferences
   * Minification
 * Amazon S3 optimized configuration
 * Uses bundle for gems
+* Sitemap
 
 ### Roadmap
 
@@ -20,7 +21,7 @@ You may or may not find it useful depending on what your development preferences
 * RSS feed
 * Styles for common blog elements
 * Favicon and mobile icons
-* Sitemap and SEO
+* More SEO
 
 ## Getting Started
 
