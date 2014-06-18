@@ -14,11 +14,11 @@ You may or may not find it useful depending on what your development preferences
 * Amazon S3 deploy and pre-optimized configuration
 * Uses bundle for gems
 * Sitemap
+* RSS feed
 * Rake tasks for common chores
 
 ### Roadmap
 
-* RSS feed
 * Styles for common blog elements
 * Favicon and mobile icons
 * More SEO
