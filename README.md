@@ -35,7 +35,7 @@ is not meant to be one-size fits all.
 
 You can also type `rake` and it will display a list of available tasks.
 
-## Acknowledgments and Licences
+## Acknowledgments and Licenses
 
 This project uses many plugins and ideas from other developers. In no particular order:
 
@@ -43,8 +43,8 @@ This project uses many plugins and ideas from other developers. In no particular
 MIT License  
 http://jekyllrb.com/
 
-**Sitemap Generator plugin by Daniel Groves**  
-Creative Commons licence  
+**Sitemap Generator plugin**  
+Creative Commons license  
 https://github.com/danielgroves/jekyll-plugins
 
 **Jekyll Asset Pipeline Reborn**  
@@ -52,6 +52,7 @@ MIT License
 https://github.com/kitsched/japr
 
 **Jekyll RSS Feeds**  
+License unclear https://github.com/snaptortoise/jekyll-rss-feeds/issues/9
 https://github.com/snaptortoise/jekyll-rss-feeds
 
-All other code unless otherwise stated is licenced under the MIT Licence.
+All other code unless otherwise stated is licenced under the MIT License.
