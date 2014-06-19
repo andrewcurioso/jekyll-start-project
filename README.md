@@ -52,7 +52,7 @@ MIT License
 https://github.com/kitsched/japr
 
 **Jekyll RSS Feeds**  
-License unclear https://github.com/snaptortoise/jekyll-rss-feeds/issues/9
+[License unclear](https://github.com/snaptortoise/jekyll-rss-feeds/issues/9)  
 https://github.com/snaptortoise/jekyll-rss-feeds
 
 All other code unless otherwise stated is licenced under the MIT License.
