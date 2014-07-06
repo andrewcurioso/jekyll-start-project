@@ -46,6 +46,7 @@ namespace :config do
       end
       if answer[0].downcase != 'y'
         puts "Skipping .env configuration"
+        next
       end
     end
 
