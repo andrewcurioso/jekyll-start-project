@@ -20,6 +20,11 @@ task :build do
   sh "bundle exec jekyll build"
 end
 
+desc "serve the Jekyll project locally"
+task :serve do
+  sh "bundle exec jekyll serve"
+end
+
 desc "build then deploy to S3"
 task :deploy => [ :clean, :build ] do
   sh "bundle exec s3_website push"
